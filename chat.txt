@@ -1,1 +1,1 @@
-0.1.31|https://www.dropbox.com/scl/fi/a66z667ufzp7fl0bdv11f/ArborWingAiStudio_0.1.31.exe?rlkey=cguj71dc97sb6t1tqxosau0ru&st=qppmitau&dl=0|Short info about update here
+0.1.31|https://raw.githubusercontent.com/ReneeHuh/ArborWingUpdate/refs/heads/main/Chat/ArborWingAiStudio_0.1.31.exe|Short info about update here
